@@ -11,6 +11,8 @@ package SE;
  */
 /*temporary file */
 /* editing hello.java after creating a branch */
+/* editing hello.java in new branch after merge revision */
+
 public class hello {
     
     
